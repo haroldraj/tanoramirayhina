@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316724211138",
+    "project_id": "tanoramirayhina",
+    "storage_bucket": "tanoramirayhina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316724211138:android:a8fbf69605962993c6fa5b",
+        "android_client_info": {
+          "package_name": "com.example.tanoramirayhina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316724211138-bvvv13imcsep8kjn7ejmsrrd3fd5l6tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUL6Qh89HXQluWj1nJaGYon3cw7_Dzxrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316724211138-bvvv13imcsep8kjn7ejmsrrd3fd5l6tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
